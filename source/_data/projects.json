@@ -1,0 +1,30 @@
+[
+  {
+    "name": "The Secret Parameter, LFR, and Potential RCE in NodeJS Apps",
+    "url": "https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/"
+  },
+  {
+    "name": "DefCon CTF Quals 2020 - HTTP Desync between HAProxy & Gunicorn",
+    "url": "https://blog.shoebpatel.com/2020/05/18/DefCon-CTF-2020-HTTP-Desync-between-HAProxy-Gunicorn/"
+  },
+  {
+    "name": "Google Summer of Code 101",
+    "url": "https://blog.shoebpatel.com/2018/08/18/Google-Summer-of-Code-2018/"
+  },
+  {
+    "name": "Facebook's BountyCon 2020 CTF Writeup",
+    "url": "https://blog.shoebpatel.com/2020/01/31/Facebooks-BountyCon-2020-CTF-Writeup/"
+  },
+  {
+    "name": "HackerOne-2006 CTF Writeup",
+    "url": "https://blog.shoebpatel.com/2020/06/19/HackerOne-2006-CTF-Writeup/"
+  },
+  {
+    "name": "FireShell CTF 2020 Write-up",
+    "url": "https://blog.shoebpatel.com/2020/03/23/FireShell-CTF-2020-Write-up/"
+  },
+  {
+    "name": "CaptainFreak Experience #1 - HacktoberFest 2018",
+    "url": "https://blog.shoebpatel.com/2018/10/20/CaptainFreak-Experience-1-HacktoberFest-2018/"
+  }
+]
